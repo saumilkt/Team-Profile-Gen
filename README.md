@@ -26,6 +26,10 @@ Steps to install application:
 
 ![Site](assets/team-profile.png)
 
+2. Profile Generation Demo
+
+![Demo](assets/demo.gif)
+
 ### Snippets
 
 
